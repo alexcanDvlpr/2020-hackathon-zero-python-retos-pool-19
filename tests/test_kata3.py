@@ -1,5 +1,4 @@
 import pytest
-
 from kata3.bot import start, help, mayus, alreves
 
 class Message():
